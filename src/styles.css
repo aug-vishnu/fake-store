@@ -1,0 +1,17 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.product {
+  display: flex;
+  align-items: center;
+  padding-top: 2rem !important;
+  padding-bottom: 1rem !important;
+  border-bottom: 2px solid gray;
+  cursor: pointer;
+}
+
+.product img {
+  width: 15vw;
+}
